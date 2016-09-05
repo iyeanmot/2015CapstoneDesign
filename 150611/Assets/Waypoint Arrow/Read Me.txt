@@ -1,0 +1,28 @@
+Arrow Waypointer
+Version 1.0
+
+Instructions for use:
+
+1. Add the "Waypoint Arrow" prefab to your scene, you can set the prefab as a child of the camera object to ensure it's always within view of the camera.
+
+2. Add the "Waypoint Controller" to your scene, set the number of waypoints used by adjusting the "Total Waypoints" value in the inspector.
+
+3. Position the waypoints in your scene.
+
+4. Adjust collider size of waypoints.
+
+5. Add any additional components or gameobjects to your waypoint, such as visual indicators, so the player know that's where he/she needs to go.
+
+
+Notes:
+
+-When a collider with the tag "Player" collides with a waypoint, the current target changes to the next waypoint. 
+
+-When the last waypoint is reached, the "Waypoint Arrow" and "Waypoint Controller" are destroyed.
+
+-After adjusting the "Total Waypoints" value, if you have unused waypoints in your scene, you can just delete them.
+
+
+Thank you for your purchase.
+Questions, Comments, Support:
+turnthegameon@gmail.com

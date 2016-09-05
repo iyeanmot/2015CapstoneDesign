@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\ex_script\fire_hp.cs">
+    <Files>
+      <File FileName="Assets\script\start_log.cs" Line="1" Column="1" />
+      <File FileName="pro_be_exting (3).sln" Line="1" Column="1" />
+      <File FileName="Assets\script\ex_script\fire_hp.cs" Line="158" Column="1" />
+      <File FileName="Assets\script\ex_script\show_gage.cs" Line="45" Column="1" />
+      <File FileName="Assets\Delta_hp.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
